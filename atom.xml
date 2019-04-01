@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>大油瓶</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.yipeng.science/"/>
+  <updated>2019-03-31T23:10:48.710Z</updated>
+  <id>http://blog.yipeng.science/</id>
+  
+  <author>
+    <name>Yipeng</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://blog.yipeng.science/2019/03/31/hello-world%20-%20Copy/"/>
+    <id>http://blog.yipeng.science/2019/03/31/hello-world - Copy/</id>
+    <published>2019-04-01T06:43:37.515Z</published>
+    <updated>2019-03-31T23:10:48.710Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+      <category term="VCSEL" scheme="http://blog.yipeng.science/categories/VCSEL/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://blog.yipeng.science/2019/03/31/hello-world/"/>
+    <id>http://blog.yipeng.science/2019/03/31/hello-world/</id>
+    <published>2019-04-01T06:40:17.831Z</published>
+    <updated>2019-01-19T00:29:42.885Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2019-02-05</title>
+    <link href="http://blog.yipeng.science/2019/02/06/2019-02-05/"/>
+    <id>http://blog.yipeng.science/2019/02/06/2019-02-05/</id>
+    <published>2019-02-06T08:34:02.000Z</published>
+    <updated>2019-02-06T08:43:43.306Z</updated>
+    
+    <content type="html"><![CDATA[<p>其实今天过得不是那么好。实验很累，最累的是没有预期中的结果。ebeam的dose突然偏离很大，这是之前的测试中从来没有出现过的。突然就很frastrated。我也有仔细分析结果，没有SEM的分析，过程很煎熬。<br>不过大概还是定下来明天早上再重复一次，看看是不是普遍现象，另外加大dose，以防没有改善的话，高的dose会好一些。</p><p>即使今天已经很糟糕了，实验没有什么进展，时间页很紧张了，毕竟又要组会了。。。但是我晚上还是玩游戏了，还看了流浪地球。这种状态是不对劲的呀。已经又把dota卸载掉了，希望这次持续的时间能够长一些。但是除了游戏，我觉得还有其他一些问题，比如引导性的习惯。只是现在还没有明确的发现。</p><p>嗨呀，总之，准备明天早点去学校准备样品了。预约了十点的ebeam，下午两点还要jonna帮忙做SEM。所以大概八点，最晚八点半到学校吧，涂一下光刻胶，仔细看下olympus，分析好问题，让kevin帮忙下。还需要重新做一个mask。加油吧</p><p>嗯</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;其实今天过得不是那么好。实验很累，最累的是没有预期中的结果。ebeam的dose突然偏离很大，这是之前的测试中从来没有出现过的。突然就很frastrated。我也有仔细分析结果，没有SEM的分析，过程很煎熬。&lt;br&gt;不过大概还是定下来明天早上再重复一次，看看是不是普遍现象，
+      
+    
+    </summary>
+    
+      <category term="diary" scheme="http://blog.yipeng.science/categories/diary/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Mon Feb 04 2019 00:00:00 GMT-0800 (Pacific Standard Time)</title>
+    <link href="http://blog.yipeng.science/2019/02/05/2019-02-04/"/>
+    <id>http://blog.yipeng.science/2019/02/05/2019-02-04/</id>
+    <published>2019-02-05T08:00:23.000Z</published>
+    <updated>2019-02-05T08:41:24.334Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天是周一，匆匆忙忙上完AFM的课，下午准备做ebeam。其实压力挺大的，对于她的态度，也从紧张变成了无所谓吧，有点老油条的感觉了，但其实还是想做好的。然而造化弄人QAQ ebeam出了问题，height sensor不管用了，就没做的成。如果说晚上能够及时把ebeam给做完的话，就直接能请yichi帮忙看SEM了。所以晚上回去的路上一直很沮丧。<br>希望Zeiss SEM赶紧修好吧，这样进度就能快很多了！然后明天的计划就是先把AFM考了吧。AFM其实也还是很有用的!<br>就这样吧，加油!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;今天是周一，匆匆忙忙上完AFM的课，下午准备做ebeam。其实压力挺大的，对于她的态度，也从紧张变成了无所谓吧，有点老油条的感觉了，但其实还是想做好的。然而造化弄人QAQ ebeam出了问题，height sensor不管用了，就没做的成。如果说晚上能够及时把ebeam给做
+      
+    
+    </summary>
+    
+      <category term="diary" scheme="http://blog.yipeng.science/categories/diary/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>激光基膜的有效截面半径</title>
+    <link href="http://blog.yipeng.science/2016/01/13/%E6%BF%80%E5%85%89%E5%9F%BA%E8%86%9C%E7%9A%84%E6%9C%89%E6%95%88%E6%88%AA%E9%9D%A2%E5%8D%8A%E5%BE%84/"/>
+    <id>http://blog.yipeng.science/2016/01/13/激光基膜的有效截面半径/</id>
+    <published>2016-01-14T00:19:59.000Z</published>
+    <updated>2019-01-22T00:49:57.479Z</updated>
+    
+    <content type="html"><![CDATA[<p>在看《激光原理》的时候对激光基模的“有效截面半径”产生了兴趣。</p><p>书上说，可定义一个镜面上基模的“光斑有效截面半径”$w_s$，使得在距离镜中心$w_s$处的场振幅下降为镜中心之值的$e^{-1}$倍，基模光束的光能量集中在光斑有效截面圆内。</p><p>我产生了这么几个疑问</p><ol><li>为什么可以这样定义</li><li>为什么是定义$e^{-1}$</li></ol><p>于是谷歌了一下，发现没有类似的问题。其他的资料上也只是简单的一笔带过也没有解释原因。于是我开了脑洞研究了一下，基本解决了这个问题并且进行了延伸，以飨后来人。</p><p>先放<strong>结论</strong>：光斑有效截面半径”$w_s$相当于整个光束按振幅分布的平均半径。或者说，在整个平面上的基模光束的光能量都可以集中在半径为$w_s$圆内，且每一处的光强都为镜中心的最大值。</p><p>##由粒子衰减的平均寿命说起<br>在搜索的时候发现很多人包括小木虫上也有人在问为什么平均寿命就是最大值衰减到原来$\frac{1}{e}$的时候，大家都以为是一个约定俗成的规定，但其实这是用概率论的知识求得的。</p><p>公式为：平均时间=某一时刻的时间×该时刻粒子仍在高能级上的概率</p><p>以下是计算步骤：<br>假设衰减函数为:<br>$$N=N_0e^{-\lambda t}$$<br>首先进行归一化：<br>$$1=\int_0^\infty c\cdot N_0 e^{-\lambda t}dt=c\cdot\frac{N_0}{\lambda}$$<br>解得：<br>$$c=\frac{\lambda}{N_0}$$</p><p>于是根据上面平均时间的公式即可求得：</p><p>$$\tau=\int_0^\infty t\cdot c \cdot N_0e^{-\lambda t}dt=\int_0^\infty \lambda te^{-\lambda t}dt=\frac{1}{\lambda}$$<br>将$t=\frac{1}{\lambda}$ 中得到$N=\frac{1}{e} N_0$，正好对应得是$N_0$ 衰减到 $\frac{1}{e}$ 的时候！</p><p>##高斯函数——衰减函数的延伸<br>之所以先从衰减函数说起，是因为如果仔细观察的话，会发现高斯函数$f(x)=e^{-x^2}$ 和衰减函数$f(x)=e^{-x}$ 的形式是一样的，而惟一的区别就是维度的不同。对于镜面上的高斯函数，不同的面积元上对应着不同的振幅（或者说是光强）。因此类比衰减函数，高斯函数就一定有一个平均面积！</p><p>由于$f(x)=e^{-x^2}$ 是二维的，所以我们首先需要把它展成三维的形式并化为一般形式：<br>$$f(x,y)=e^{-\frac{x^2+y^2}{m^2}}$$<br> 其中$x^2+y^2$就是以镜中心为圆心的半径。然后我们按照类似衰减函数的求法来求镜面上光强分布的平均半径$w_s$</p><p>首先归一化：<br>$$1=\iint_0^\infty c \cdot e^{-\frac{x^2+y^2}{m^2}}dxdy=c \cdot \frac{\pi m^4}{4}$$<br>解得：<br>$$c=\frac{4}{\pi m^2}$$<br>于是，平均半径平方为：<br>$$w_s^2=\iint(x^2+y^2)c\cdot f(x)=m^2$$<br>可见，$w_s^2$就是高斯函数自变量前的负系数，这个结论是和衰减函数一致的！<br>而将结果反代入式子当中，正好对应的是结果衰减到中心值 $\frac{1}{e}$ 的时候！因此书上的结论就是这样得来的。</p><p>##尾巴<br>这样的结果看似巧合，实际上是有必然联系的。我之后又将尝试了四维的情况下，发现结论依旧不变，即：</p><ol><li>平均寿命/面积/体积等于自变量前的负倒数；</li><li>平均寿命/面积/体积都是发生在衰减到原先值 $\frac{1}{e}$ 的地方。</li></ol><p>另外，无论是在本文中涉及到的激光领域还是其他自然科学领域，往往都能见到自然底数e的身影。关于自然底数前世今生，推荐阅读<a href="http://www.zhihu.com/question/20296247" target="_blank" rel="noopener">数学里的 e 为什么叫做自然底数？是不是自然界里什么东西恰好是 e？</a></p><p>简单来说，对于像衰减函数，更多地体现的是一种连续性，各个部分强关联，像是自然“生长”出来的。比如植物的生长、扩散、粒子的衰减等等；</p><p>而高斯分布，又叫做正态分布，更常见于人造体，而非自然界。我们人类造东西，都是“搭”出来的，一个模块和另一个模块之间关联很弱，坏了一个模块换掉就好。所以人造系统，其表现，包括性能啊，噪声啊，稳定度啊，都基于高斯分布。</p><p>当然，肯定还有更深层次的原因，只是我们还不知道罢了。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在看《激光原理》的时候对激光基模的“有效截面半径”产生了兴趣。&lt;/p&gt;
+&lt;p&gt;书上说，可定义一个镜面上基模的“光斑有效截面半径”$w_s$，使得在距离镜中心$w_s$处的场振幅下降为镜中心之值的$e^{-1}$倍，基模光束的光能量集中在光斑有效截面圆内。&lt;/p&gt;
+&lt;p&gt;我产
+      
+    
+    </summary>
+    
+      <category term="学习" scheme="http://blog.yipeng.science/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="学习" scheme="http://blog.yipeng.science/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>markdown教程</title>
+    <link href="http://blog.yipeng.science/2016/01/04/markdown%E6%95%99%E7%A8%8B/"/>
+    <id>http://blog.yipeng.science/2016/01/04/markdown教程/</id>
+    <published>2016-01-05T00:18:45.000Z</published>
+    <updated>2019-04-01T01:47:18.142Z</updated>
+    
+    <content type="html"><![CDATA[<font size="5">Markdown 语法</font>  <p>注意：为了方便记忆，同样功能的语法只选较为简单的介绍。本文力求语法功能的多样性！</p><h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><p>在行首插入 1 到 6 个 # ，对应到标题 1 到 6 阶，例如：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"># 这是 H1</span><br><span class="line">## 这是 H2</span><br><span class="line">###### 这是 H6</span><br></pre></td></tr></table></figure></p><h2 id="换行"><a href="#换行" class="headerlink" title="换行"></a>换行</h2><ol><li>连续两个以上空格+回车</li><li>使用html语言换行标签：<code>&lt;br&gt;</code></li></ol><h2 id="字体字号颜色"><a href="#字体字号颜色" class="headerlink" title="字体字号颜色"></a>字体字号颜色</h2><p>markdown 也是支持内嵌 HTML 标签的。<br>因此可以表示为<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&lt;font face=&quot;微软雅黑&quot;&gt;我是微软雅黑&lt;/font&gt;</span><br><span class="line">&lt;font color=&quot;#0099ff&quot; size=&quot;7&quot; face=&quot;黑体&quot;&gt;color=#0099ff size=72 face=&quot;黑体&quot;&lt;/font&gt;</span><br></pre></td></tr></table></figure></p><p>size可选1-7，其中1最小，7最大。markdown默认的字号好像是3  </p><h2 id="修辞和强调"><a href="#修辞和强调" class="headerlink" title="修辞和强调"></a>修辞和强调</h2><p>Markdown 使用星号和底线来标记需要强调的区段。<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">Some of these words *are emphasized*.</span><br><span class="line"></span><br><span class="line">Some of these words _are emphasized also_.</span><br><span class="line"></span><br><span class="line">Use two asterisks for **strong emphasis**.</span><br><span class="line"></span><br><span class="line">Or, if you prefer, __use two underscores instead__.</span><br></pre></td></tr></table></figure></p><p>效果如下：<br>Some of these words <em>are emphasized</em>.</p><p>Some of these words <em>are emphasized also</em>.</p><p>Use two asterisks for <strong>strong emphasis</strong>.</p><p>Or, if you prefer, <strong>use two underscores instead</strong>.</p><p>如果你的 * 和 _ 两边都有空白的话，它们就只会被当成普通的符号。  </p><h2 id="反斜杠"><a href="#反斜杠" class="headerlink" title="反斜杠"></a>反斜杠</h2><p>Markdown 可以利用反斜杠来插入一些在语法中有其它意义的符号，例如：如果你想要用星号加在文字旁边的方式来做出强调效果，你可以在星号的前面加上反斜杠：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">\*literal asterisks\*</span><br></pre></td></tr></table></figure></p><p>Markdown 支持以下这些符号前面加上反斜杠来帮助插入普通的符号：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">\\   反斜线</span><br><span class="line">\`   反引号</span><br><span class="line">\*   星号</span><br><span class="line">\_    底线</span><br><span class="line">\&#123;&#125;  花括号</span><br><span class="line">\[]  方括号</span><br><span class="line">\()  括弧</span><br><span class="line">\#   井字号</span><br><span class="line">\+   加号</span><br><span class="line">\-   减号</span><br><span class="line">\.   英文句点</span><br><span class="line">\!   惊叹号</span><br></pre></td></tr></table></figure></p><h2 id="分隔线"><a href="#分隔线" class="headerlink" title="分隔线"></a>分隔线</h2><p>你可以在一行中用三个以上的星号、减号、底线来建立一个分隔线，行内不能有其他东西。你也可以在星号或是减号中间插入空格。下面每种写法都可以建立分隔线：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">* * *</span><br><span class="line">***</span><br><span class="line">*****</span><br><span class="line">- - -</span><br><span class="line">---------------------------------------</span><br></pre></td></tr></table></figure></p><h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><p>无序列表使用<strong>星号、加号和减号</strong>来做为列表的项目标记，<strong>项目标记后面则一定要接着至少一个空格或制表符。</strong></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">* Candy.</span><br><span class="line">+ Gum.</span><br><span class="line">- Booze.</span><br></pre></td></tr></table></figure><p>效果如下：</p><ul><li>Candy.</li></ul><ul><li>Gum.</li></ul><ul><li>Booze.</li></ul><p>有序的列表则是使用一般的数字接着一个英文句点作为项目标记：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">1. Red</span><br><span class="line">2. Green</span><br><span class="line">3. Blue</span><br></pre></td></tr></table></figure></p><p>在一个项目内放上<strong>多个段落</strong>，只要在它前面缩排4个空白或1个tab。<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">* A list item.</span><br><span class="line"></span><br><span class="line">    With multiple paragraphs.</span><br><span class="line"></span><br><span class="line">    Another item in the list.</span><br></pre></td></tr></table></figure></p><p>在列表项目内放进<strong>引用</strong>，那 <code>&gt;</code> 就需要缩排4个空白或2个tab：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">*   A list item with a block quote:</span><br><span class="line"></span><br><span class="line">    &gt; This is a block quote</span><br><span class="line">    &gt; inside a list item.</span><br></pre></td></tr></table></figure></p><p>在列表项目内放<strong>代码区块</strong>，该区块就需要缩进两次，也就是8个空格或是4个制表符：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">*   一列表项包含一个列表区块：</span><br><span class="line"></span><br><span class="line">        &lt;代码写在这&gt;</span><br></pre></td></tr></table></figure></p><h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><p>在一般的段落文字中，你可以使用反引号`来标记代码区段</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">I wish SmartyPants used named entities like `&amp;mdash;`</span><br><span class="line">instead of decimal-encoded entites like `&amp;#8212;`.</span><br></pre></td></tr></table></figure><p>I wish SmartyPants used named entities like <code>&amp;mdash;</code><br>instead of decimal-encoded entites like <code>&amp;#8212;</code>.  </p><h2 id="代码区块"><a href="#代码区块" class="headerlink" title="代码区块"></a>代码区块</h2><p>如果要建立一个已经格式化好的代码区块，只要每行都缩进 4 个空格或是2个 tab 就可以了<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">这是一个普通段落：</span><br><span class="line">    这是一个代码区块。</span><br></pre></td></tr></table></figure></p><p>代码区块的效果如下：</p><pre><code>这是一个代码区块。</code></pre><p><strong>一个代码区块会一直持续到没有缩进的那一行（或是文件结尾）。</strong></p><p>代码区块中，一般的 Markdown 语法不会被转换  </p><hr><p>但是这样做出来的代码区块没有很好看，我查看了hexo中的例子，发现例子中并没有用4个空格或者2个tab的方式来做出代码区块，而是用一下三个反引号！如下：</p><blockquote><p>```<br>引用的文字<br>```</p></blockquote><p>如果用了三个反引号，那么引用部分每行前面是有数字的，但是如果用的是四个空格或者两个tab，则是没有数字的，就没有那么好看了。</p><h2 id="区块引用"><a href="#区块引用" class="headerlink" title="区块引用"></a>区块引用</h2><p> 文件中建立一个区块引用，那会看起来像是你自己先断好行，然后在每行的最前面加上>:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">&gt; ## 这是一个标题。</span><br><span class="line">&gt;</span><br><span class="line">&gt; 1.   这是第一行列表项。</span><br><span class="line">&gt; 2.   这是第二行列表项。</span><br><span class="line">&gt;</span><br><span class="line">&gt; &gt;给出一些例子代码：</span><br><span class="line">&gt;</span><br><span class="line">&gt;     return shell_exec(&quot;echo $input | $markdown_script&quot;);</span><br></pre></td></tr></table></figure><blockquote><h2 id="这是一个标题。"><a href="#这是一个标题。" class="headerlink" title="这是一个标题。"></a>这是一个标题。</h2><ol><li>这是第一行列表项。</li><li>这是第二行列表项。</li></ol><blockquote><p>给出一些例子代码：</p></blockquote><pre><code>return shell_exec(&quot;echo $input | $markdown_script&quot;);</code></pre></blockquote><p>引用的区块内也可以使用其他的 Markdown 语法，包括标题、列表、代码区块等，并且可以嵌套。</p><p>Markdown 也允许你偷懒只在整个段落的第一行最前面加上 &gt; （PS回车一次和加了空格的效果是一样的，依然是一段！回车两次那就真的分行了）：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&gt; This is a block quote with two paragraphs. Lorem ipsum dolor sitamet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.</span><br><span class="line">Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.</span><br></pre></td></tr></table></figure></p><blockquote><p>This is a block quote with two paragraphs. Lorem ipsum dolor sitamet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.<br>Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus. </p></blockquote><h2 id="自动链接"><a href="#自动链接" class="headerlink" title="自动链接"></a>自动链接</h2><p>Markdown 支持以比较简短的自动链接形式来处理网址和电子邮件信箱，只要是用尖括号包起来，例如：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&lt;http://example.com/&gt;</span><br><span class="line">&lt;address@example.com&gt;</span><br></pre></td></tr></table></figure></p><h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">This is an [example link](http://example.com/).</span><br><span class="line"></span><br><span class="line">I get 10 times more traffic from [Google][1] than from</span><br><span class="line">[Yahoo][2] or [MSN][3].</span><br><span class="line"></span><br><span class="line">[1]: http://google.com/ &quot;Google&quot;</span><br><span class="line">[2]: http://search.yahoo.com/ &apos;Yahoo Search&apos;</span><br><span class="line">[3]: http://search.msn.com/ (MSN Search)</span><br><span class="line">[id]: &lt;http://example.com/&gt;  &quot;Optional Title Here&quot;</span><br></pre></td></tr></table></figure><p>This is an <a href="http://example.com/" target="_blank" rel="noopener">example link</a>.<br>I get 10 times more traffic from <a href="http://google.com/" title="Google" target="_blank" rel="noopener">Google</a> than from<br><a href="http://search.yahoo.com/" title="Yahoo Search" target="_blank" rel="noopener">Yahoo</a> or <a href="http://search.msn.com/" title="MSN Search" target="_blank" rel="noopener">MSN</a>.</p><hr><p>可以在文件的任意地方（并不仅限于文末，文中也行）定义该链接的内容：</p><p>title 内容，可以用单引号、双引号或是括弧包着。也可以把 title 放到下一行，也可以加一些缩进，若网址太长的话，这样会比较好看</p><p>以下两种方式也行：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">1. I get 10 times more traffic from [Google][] than from [Yahoo][] or [MSN][].</span><br><span class="line"></span><br><span class="line">  [google]: http://google.com/        &quot;Google&quot;</span><br><span class="line">  [yahoo]:  http://search.yahoo.com/  &quot;Yahoo Search&quot;</span><br><span class="line">  [msn]:    http://search.msn.com/    &quot;MSN Search&quot;</span><br><span class="line"></span><br><span class="line">2. I get 10 times more traffic from [Google](http://google.com/ &quot;Google&quot;) than from [Yahoo](http://search.yahoo.com/ &quot;Yahoo Search&quot;) or [MSN](http://search.msn.com/ &quot;MSN Search&quot;).</span><br></pre></td></tr></table></figure></p><ol><li>I get 10 times more traffic from <a href="http://google.com/" title="Google" target="_blank" rel="noopener">Google</a> than from <a href="http://search.yahoo.com/" title="Yahoo Search" target="_blank" rel="noopener">Yahoo</a> or <a href="http://search.msn.com/" title="MSN Search" target="_blank" rel="noopener">MSN</a>.</li></ol><ol start="2"><li>I get 10 times more traffic from <a href="http://google.com/" title="Google" target="_blank" rel="noopener">Google</a> than from <a href="http://search.yahoo.com/" title="Yahoo Search" target="_blank" rel="noopener">Yahoo</a> or <a href="http://search.msn.com/" title="MSN Search" target="_blank" rel="noopener">MSN</a>.  </li></ol><h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><p>图片的语法和链接很像。<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![avatar](/pic/avatar.png &quot;头像&quot;)</span><br></pre></td></tr></table></figure></p><p><img src="/pic/avatar.png" alt="avatar" title="头像"></p><p>这里的avatar是当图片显示不出来的时候显示的文字，“头像”是图片下的文字，这两项都可以不填。</p><p>参考式的图片语法则长得像这样：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">![Alt text][id]</span><br><span class="line"></span><br><span class="line">[id]: /pic/avatar.png &quot;头像&quot;</span><br></pre></td></tr></table></figure></p><hr><hr><hr><p>sublime中markdownlivepreview 的快捷方式是alt+m</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;font size=&quot;5&quot;&gt;Markdown 语法&lt;/font&gt;  
+
+
+&lt;p&gt;注意：为了方便记忆，同样功能的语法只选较为简单的介绍。本文力求语法功能的多样性！&lt;/p&gt;
+&lt;h2 id=&quot;标题&quot;&gt;&lt;a href=&quot;#标题&quot; class=&quot;headerlink&quot; title=&quot;标题
+      
+    
+    </summary>
+    
+      <category term="学习" scheme="http://blog.yipeng.science/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+  </entry>
+  
+</feed>
